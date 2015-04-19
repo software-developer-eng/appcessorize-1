@@ -8,12 +8,12 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "Appcessorize"
-  s.version          = "1.0.0"
+  s.name             = 'Appcessorize'
+  s.version          = '1.0.0'
   s.summary          = "Appcessorize is a simple library that lets users make their photos into phone cases."
   s.description      = "Appcessorize is a simple library that lets users make their photos into phone cases. By integrating it in your application, your users will be able to get a real mobile case anywhere in the world. It is so easy: select images, add them to the case template, check out and **YOU ARE DONE!!**"
 
-  s.homepage         = "https://github.com/amani-mohammad/appcessorize"
+  s.homepage         = 'https://github.com/amani-mohammad/appcessorize'
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = { :file => 'LICENSE', :type => 'Commercial' }
   s.author           = { "Amani Mohammad" => "amani@nweave.com" }
