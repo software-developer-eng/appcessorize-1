@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = "https://github.com/amani-mohammad/appcessorize"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
-  s.license          = 'MIT'
+  s.license          = { :file => 'LICENSE', :type => 'Commercial' }
   s.author           = { "Amani Mohammad" => "amani@nweave.com" }
   s.source           = { :git => "https://github.com/amani-mohammad/appcessorize.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
